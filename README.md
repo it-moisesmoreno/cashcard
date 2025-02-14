@@ -8,7 +8,7 @@ This is a Family Cash Card service—an app for families to manage allowances in
 - [Topics Covered](#topics-covered)
 - [Resources](#resources)
 
-## Introduction 🌟 <a name="introduction"></a>
+## Introduction 🏁 <a name="introduction"></a>
 
 This repository was made with the help of the course "Building a REST API with Spring Boot" by Spring Academy. In this beginner course, I learned how to build a complete REST API from start to finish with Spring Boot. With their interactive labs, I got hands-on practice every step of the way — bootstrapping with Spring Initializr, through authenticating & authorizing with Spring Security.
 
