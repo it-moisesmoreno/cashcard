@@ -18,7 +18,12 @@ Parents often find themselves lacking an easy way to manage (i.e. send, receive,
 
 I used Spring Boot to progress from creating a single cash card in a database to allowing for the editing, deleting, and viewing of multiple cash cards, and finally securing my app against unauthorized access and unwanted exploits.
 
-![Image](https://raw.githubusercontent.com/vmware-tanzu-learning/spring-academy-assets/main/courses/course-spring-brasb-build-a-rest-api/NEWcardUI.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vmware-tanzu-learning/spring-academy-assets/main/courses/course-spring-brasb-build-a-rest-api/NEWcardUI.png" alt="Family cards"/>
+  <br>
+  Image from Spring Academy
+</p>
+
 
 ## Topics Covered 📝 <a name="topics-covered"></a>
 
